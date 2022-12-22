@@ -1,0 +1,7 @@
+https://www.kaggle.com/datasets/motono0223/guei-v6-clip-vit-large-arcface-train-projection
+https://www.kaggle.com/datasets/motono0223/guie-glr2021mini-tfrecords-label-10691-17690
+https://www.kaggle.com/datasets/motono0223/guie-imagenet1k-mini1-tfrecords-label-0-999
+https://www.kaggle.com/datasets/motono0223/guie-objectnet-224pix-tfrecords-label-0-312
+https://www.kaggle.com/datasets/yosshi999/guie-omnibenchmark-tfrecord
+https://www.kaggle.com/datasets/motono0223/guie-products10k-tfrecords-label-1000-10690
+https://www.kaggle.com/datasets/akihirok/guie-clip-tf-train-models
