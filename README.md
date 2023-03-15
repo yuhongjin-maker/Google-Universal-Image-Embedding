@@ -9,6 +9,8 @@ In this competition, participants were asked to developer models that could effi
 
 ### Introduction
 
+Computer vision models see daily application for a wide variety of tasks, ranging from object recognition to image-based 3D object reconstruction. This is very important to real-world visual search applications, such as augmenting cultural exhibits in a museum, organizing photo collections, visual commerce and more.
+
 In this competition, participants develop models to retrieve images from a database of the same objects as the query. Images in the competition dataset include various object types such as clothing, artwork, landmarks, furniture, packaging, etc
 
 The competition is in the form of representational learning: we will create a model to extract feature embeddings of the image(Embedding), submitting models via kaggle notebooks. 
