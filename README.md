@@ -24,8 +24,8 @@ Distribution of object types in the dataset
 
 ### Methodology
 
-* This competition based on CLIP ViT-H/14 on LAION-2B model and add an arcface layer to it in order to train image retrieval skills.
+1. This competition based on CLIP ViT-H/14 on LAION-2B model and add an arcface layer to it in order to train image retrieval skills.
 
-* Because this competition does not provide an official training set, the organizers only provided the types of images, such as clothing and accessories, packaged goods, landmarks, furniture and home decor, so wer targeted three datasets as our training and validation images.
+2. Because this competition does not provide an official training set, the organizers only provided the types of images, such as clothing and accessories, packaged goods, landmarks, furniture and home decor, so wer targeted three datasets as our training and validation images.
 
-** ee
+* ee
