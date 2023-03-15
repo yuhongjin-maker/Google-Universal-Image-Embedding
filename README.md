@@ -2,6 +2,11 @@
 
 <img width="842" alt="Screen Shot 2023-03-14 at 6 47 14 PM" src="https://user-images.githubusercontent.com/59128675/225158965-9d8908eb-b8dd-4638-a793-3afe2ad84ba9.png">
 
+
+### Objective
+
+In this competition, participants were asked to developer models that could efficiently retrieve images from a large database. For each query image, the model was to retrieve the most similar image from an index set
+
 ### Introduction
 
 In this competition, participants develop models to retrieve images from a database of the same objects as the query. Images in the competition dataset include various object types such as clothing, artwork, landmarks, furniture, packaging, etc
