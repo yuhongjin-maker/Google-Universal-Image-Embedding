@@ -28,4 +28,14 @@ Distribution of object types in the dataset
 
 2. Because this competition does not provide an official training set, the organizers only provided the types of images, such as clothing and accessories, packaged goods, landmarks, furniture and home decor, so wer targeted three datasets as our training and validation images.
 
-* ee
+* imagenet1k: This dataset was created by imagenet(1k). To decrease the size of dataset, each class in this dataset only contains 50 images
+
+* products10k: This dataset was created by product10k. To decrease the size of dataset, each class in this dataset only contains 50 images
+
+* Google landmark recognition 2021(Competition dataset): This dataset was created from the kaggle competition dataset. To reduce the size of dataset, this dataset uses the top 7k class images and a large number of images(50 images per class)
+
+3. This training is using google tpu, part of the codes for tpu optimization, It could reproduce the code results in kaggle or google colab
+
+### Result
+
+We selected larger datasets targeted for training and validation based on the image categories separately. Then the CLIP with outstanding few-shot capability was selected as our pre-training model. Because of the large model and large amount of data, our training was done on the TPU provided by kaggle, and the code was adjusted with targeted optimization. Finaaly, we obtained a precision of 0.65 @5.
