@@ -16,3 +16,14 @@ The competition is in the form of representational learning: we will create a mo
 
 <img width="529" alt="Screen Shot 2023-03-14 at 6 42 03 PM" src="https://user-images.githubusercontent.com/59128675/225158226-00cb012f-64b2-4f08-b9a4-3f8bb3be5660.png">
 
+* Data description
+
+Distribution of object types in the dataset
+
+<img width="836" alt="Screen Shot 2023-03-14 at 6 49 10 PM" src="https://user-images.githubusercontent.com/59128675/225159248-c99e6d21-a4c5-49fd-982b-87c86aa18016.png">
+
+### Methodology
+
+* This competition based on CLIP ViT-H/14 on LAION-2B model and add an arcface layer to it in order to train image retrieval skills.
+
+* Because 
